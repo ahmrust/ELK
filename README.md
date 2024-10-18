@@ -52,8 +52,9 @@
 
 Решение 3
 ```
+ЛОГИ В КИБАНУ НЕ ИДУТ!
 ```
-![alt text]()
+![alt text](https://github.com/ahmrust/ELK/blob/main/img/3.png)
 ---
 ## Задание 4. Filebeat.
 Установите и запустите Filebeat. Переключите поставку логов Nginx с Logstash на Filebeat.
