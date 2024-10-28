@@ -51,9 +51,7 @@
 Приведите скриншот интерфейса Kibana, на котором видны логи Nginx.
 
 Решение 3
-```
-ЛОГИ В КИБАНУ НЕ ИДУТ!
-```
+
 ![alt text](https://github.com/ahmrust/ELK/blob/main/img/3.png)
 ---
 ## Задание 4. Filebeat.
